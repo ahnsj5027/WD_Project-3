@@ -1,0 +1,12 @@
+body {
+  background-image: url("img/paper.jpg");
+}
+
+.feature {
+  display: inline-block;
+  height: 4rem;
+  width: 5rem;
+  font-size: 2rem;
+  margin-top: -1.5rem;
+  margin-bottom: 1.5rem;
+}
